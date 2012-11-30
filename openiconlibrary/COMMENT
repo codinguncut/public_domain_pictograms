@@ -1,0 +1,6 @@
+selection of (almost) all Public Domain SVG files.
+Excluding tango library, as I could not confirm that it is Public Domain.
+
+converted svg files with "svg_stack.py --direction=h --margin=100 *.svg > ../din.svg" to make them parseable by svg_stack.
+
+then combined them with "svg_stack.py --direction=h --margin=100 din/*.svg > din.svg"
