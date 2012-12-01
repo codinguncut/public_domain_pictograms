@@ -6,6 +6,10 @@ The use of these pictograms is permitted for commercial applications and does no
 
 For further resources please refer to my blog post [Conveying Ideas with Animations](http://entirelysubjective.com/conveying-ideas-with-animations/) about these pictograms.
 
+<center>
+<img src="https://raw.github.com/codinguncut/public_domain_pictograms/master/selection/noun_project_a_few_ordered.svg" width="400">
+</center>
+
 ## Conventions
 
 Pictograms are...
