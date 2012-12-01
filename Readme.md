@@ -10,7 +10,7 @@ For further resources please refer to my blog post [Conveying Ideas with Animati
 
 Pictograms are...
 
-* 80 units high, ideally square
+* 80 units high, ideally square. No wider than 150 units.
 * black and white where possible, where the white area is actually transparent
 * grouped together to act as a single unit
 * bottom aligned
